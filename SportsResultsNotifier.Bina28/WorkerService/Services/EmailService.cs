@@ -15,7 +15,7 @@ public class EmailService
 				PortNumber = 587,
 				EnableSSL = true,
 				EmailFromAddress = "dyakovabina@gmail.com",
-				Password = "kstp iktc zods dlvf",
+				Password = "************",
 				EmailToAddress = "dyakovabina@gmail.com",
 				Subject = subject,
 				Body = body
